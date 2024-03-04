@@ -1,0 +1,7 @@
+name = "Axl"
+uuid = "f536640c-84fa-4b82-a85d-1ff63df4f601"
+authors = ["Sakura <484304106cyh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
